@@ -1,12 +1,12 @@
 # Interactive Rating Component
 
-[Check out the live project here]([https://your-project-link](https://senajesus.github.io/interactive-rating-frontend/))
+<a href="https://your-project-link" target="_blank">Check out the live project here</a>
 
 ![Design preview for the interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👽
 
-This project is the implementation of an interactive rating component as part of a challenge proposed by Frontend Mentor. The component allows users to rate a service and provide feedback about their experience. With a modern design and an intuitive user experience, the component offers a simple and effective way to collect ratings. The project was developed using HTML, CSS, and advanced front-end techniques to create an elegant and functional solution. It's a great opportunity to enhance my development skills and learn more about creating interactive components.
+This project is the implementation of an interactive rating component as part of a challenge proposed by Frontend Mentor. The component allows users to rate a service and provide feedback about their experience. With a modern design and an intuitive user experience, the component offers a simple and effective way to collect ratings. The project was developed using HTML, CSS, JS and advanced front-end techniques to create an elegant and functional solution. It's a great opportunity to enhance my development skills and learn more about creating interactive components.
 
 ## Table of Contents
 
