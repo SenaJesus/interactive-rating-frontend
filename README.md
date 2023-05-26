@@ -1,6 +1,6 @@
 # Interactive Rating Component
 
-<a href="https://your-project-link" target="_blank">Check out the live project here</a>
+[Check out the live project here](https://senajesus.github.io/interactive-rating-frontend)
 
 ![Design preview for the interactive rating component coding challenge](./design/desktop-preview.jpg)
 
