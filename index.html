@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/mobile.css">
+
+  <title>Frontend Mentor | Interactive rating component</title>
+</head>
+
+<body>
+
+  <main class="classify">
+    <section class="star-icon"></section>
+    <section class="text-section">
+      <section class="text-title">How did we do?</section>
+      <section class="text-desc">
+        Please let us know how we did with your support request. All feedback is appreciated to help us improve our
+        offering!
+      </section>
+    </section>
+    <section class="class-options">
+      <div class="unselectedButton" onclick="selectButton(1)">1</div>
+      <div class="unselectedButton" onclick="selectButton(2)">2</div>
+      <div class="unselectedButton" onclick="selectButton(3)">3</div>
+      <div class="unselectedButton" onclick="selectButton(4)">4</div>
+      <div class="unselectedButton" onclick="selectButton(5)">5</div>
+    </section>
+    <section class="submit-button" onclick="sendData()">SUBMIT</section>
+  </main>
+
+  <main class="confirmation">
+    <section class="image-confirmation"></section>
+    <section class="user-selected">
+      <span></span>
+    </section>
+    <section class="thanks-text">
+      <section class="text-title">Thank you!</section>
+      <section class="text-desc-tk">We appreciate you taking the time to give a rating. If you ever need more
+        support,
+        don't hesitate to get
+        in touch!</section>
+    </section>
+  </main>
+
+  <div class="back-page"></div>
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="#">Jesus Sena</a>.
+  </div>
+</body>
+
+<script src="js/script.js"></script>
+
+</html>
